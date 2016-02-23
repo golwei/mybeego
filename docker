@@ -1,2 +1,10 @@
-install docker
+===install docker===
 $ wget -qO- https://get.docker.com/ | sh
+
+
+您可以通过如下的方式安装 bee 工具：
+go get github.com/beego/bee
+
+beego 的安装是典型的 Go 安装包的形式：
+go get github.com/astaxie/beego
+
